@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138263300006",
+    "project_id": "publicgallery-e5a10",
+    "storage_bucket": "publicgallery-e5a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138263300006:android:b829cdfb004f7f136cf167",
+        "android_client_info": {
+          "package_name": "com.publicgallerycrboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138263300006-kbip40u2jf2efkn8qg54qvpmgflv7r2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.publicgallerycrboy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "138263300006-soe1vb4j3759jvb9igbfakf473tl18lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0k10EirLLbgABaCVUmUfpnNAIdNzFII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138263300006-soe1vb4j3759jvb9igbfakf473tl18lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
